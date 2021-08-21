@@ -5,6 +5,5 @@
 
 <img align="right" alt="GIF" src="https://c.tenor.com/ORLl7hMkHIIAAAAC/mei-misaki-another.gif" />
 
-![Ownesis GitHub stats](https://github-readme-stats.vercel.app/api?username=ownesis&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ownesis&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ownesis&theme=tokyonight" alt="ownesis" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ownesis&layout=compact" alt="lang" /> </p>
