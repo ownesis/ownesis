@@ -9,6 +9,6 @@
 - ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ownesis&layout=compact)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ownesis&layout=compact&theme=tokyonight&hide_border=true&border_radius=16)
 
-![ownesis](https://github-readme-stats.vercel.app/api?username=ownesis&theme=tokyonight)
+![ownesis](https://github-readme-stats.vercel.app/api?username=ownesis&theme=tokyonight&hide_border=true&border_radius=16)
